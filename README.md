@@ -6,7 +6,7 @@ icon: earth-africa
 
 ## **Welcome to the Sonic Name Service (SNS)**
 
-Welcome to the **Sonic Name Service (SNS)** — your gateway to a decentralized, user-friendly naming system that will be built on the [**Sonic**](https://soniclabs.com) **blockchain**. SNS will enable users to map human-readable names, ending in `.s`, to blockchain addresses, smart contracts, websites, and more. Just like `.eth` domains on ENS, `.s` domains will simplify the complexities of interacting with the blockchain by providing an intuitive and accessible experience for both developers and end-users.
+Welcome to the **Sonic Name Service (SNS)** — your gateway to a decentralized, user-friendly naming system that will be built on the [**Sonic**](https://soniclabs.com) blockchain. SNS will enable users to map human-readable names, ending in `.s`, to blockchain addresses, smart contracts, websites, and more. Just like `.eth` domains on ENS, `.s` domains will simplify the complexities of interacting with the blockchain by providing an intuitive and accessible experience for both developers and end-users.
 
 #### **Why Choose SNS?**
 
