@@ -6,11 +6,11 @@ icon: earth-africa
 
 ## **Welcome to the Sonic Name Service (SNS)**
 
-Welcome to the **Sonic Name Service (SNS)** — your gateway to a decentralized, user-friendly naming system that will be built on the **Sonic blockchain**. SNS will enable users to map human-readable names, ending in `.s`, to blockchain addresses, smart contracts, websites, and more. Just like `.eth` domains on ENS, `.s` domains will simplify the complexities of interacting with the blockchain by providing an intuitive and accessible experience for both developers and end-users.
+Welcome to the **Sonic Name Service (SNS)** — your gateway to a decentralized, user-friendly naming system that will be built on the [**Sonic**](https://soniclabs.com) **blockchain**. SNS will enable users to map human-readable names, ending in `.s`, to blockchain addresses, smart contracts, websites, and more. Just like `.eth` domains on ENS, `.s` domains will simplify the complexities of interacting with the blockchain by providing an intuitive and accessible experience for both developers and end-users.
 
 #### **Why Choose SNS?**
 
-The Sonic Name Service is designed to offer the same powerful features you might recognize from the Ethereum Name Service (ENS), but with key improvements tailored to the **Sonic blockchain**, a new, innovative network developed by **Fantom**. Whether you're an individual user securing a digital identity, a project deploying decentralized applications, or a developer integrating blockchain technology, SNS will provide seamless, scalable, and secure solutions for managing names on the decentralized web.
+The Sonic Name Service is designed to offer the same powerful features you might recognize from the Ethereum Name Service (ENS), but with key improvements tailored to the **Sonic blockchain**, a new, innovative network developed by [**Fantom**](https://fantom.foundation/). Whether you're an individual user securing a digital identity, a project deploying decentralized applications, or a developer integrating blockchain technology, SNS will provide seamless, scalable, and secure solutions for managing names on the decentralized web.
 
 Here’s what makes SNS unique:
 
