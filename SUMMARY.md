@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+## Intro
+
+* [Overview of SNS](README.md)
