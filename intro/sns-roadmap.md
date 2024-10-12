@@ -29,7 +29,10 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
 #### **Phase 4: SNS Platform Launch on Sonic**
 
 * **Timeline**: Shortly after the Sonic mainnet launch
-* **Details**: The SNS platform will go live, allowing users to fully utilize the service by registering `.s` domains, managing their names, and integrating with decentralized applications (dApps) on the Sonic blockchain.
+* **Details**: The SNS platform will go live, allowing users to fully utilize the service by registering `.s` domains, managing their names, and integrating with decentralized applications (dApps) on the Sonic blockchain. Additionally, SNS will introduce a **DAO (Decentralized Autonomous Organization)** that will empower token holders to participate in governance decisions, ensuring a community-driven development process for the platform.
+  * **DAO Features**:
+    * Token holders can vote on governance proposals.
+    * Influence over future upgrades and platform decisions.
 
 #### **Phase 5: Ecosystem Development**
 
