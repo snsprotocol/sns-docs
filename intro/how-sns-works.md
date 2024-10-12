@@ -4,7 +4,7 @@ icon: circle-question
 
 # How SNS Works
 
-The **Sonic Name Service (SNS)** is poised to revolutionize decentralized name services on the [**Sonic blockchain**](https://soniclabs.com), offering users and developers a streamlined and efficient way to manage `.s` domains. This guide provides an overview of how SNS will function once it is officially launched.
+The **Sonic Name Service (SNS)** is poised to revolutionize decentralized name services on the [Sonic blockchain](https://soniclabs.com), offering users and developers a streamlined and efficient way to manage `.s` domains. This guide provides an overview of how SNS will function once it is officially launched.
 
 #### **1. Overview of Name Registration**
 

@@ -4,7 +4,7 @@ icon: cloud-question
 
 # Why Sonic?
 
-The **Sonic Name Service (SNS)** is designed to leverage the cutting-edge features of the [**Sonic blockchain**](https://soniclabs.com), providing a highly efficient and scalable platform for decentralized name services. Sonic’s advanced infrastructure offers several key advantages that make it the ideal foundation for SNS, ensuring fast, secure, and cost-effective operations for users and developers alike.
+The **Sonic Name Service (SNS)** is designed to leverage the cutting-edge features of the [Sonic blockchain](https://soniclabs.com), providing a highly efficient and scalable platform for decentralized name services. Sonic’s advanced infrastructure offers several key advantages that make it the ideal foundation for SNS, ensuring fast, secure, and cost-effective operations for users and developers alike.
 
 <figure><img src="../.gitbook/assets/sonic-labs.png" alt=""><figcaption><p>Sonic Blockchain Network</p></figcaption></figure>
 
