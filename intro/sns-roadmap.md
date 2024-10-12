@@ -19,7 +19,7 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
 * **Details**: After the burn-to-mint event, the SNS token will be distributed via an Initial DEX Offering (IDO) on the **Fantom network**. Early adopters and supporters will have the opportunity to acquire the SNS token, which will be used within the SNS ecosystem.
   * **Token Symbol**: SNS
   * **Platform**: Fantom
-  * **Use Cases**: Staking, governance, domain registration, and more.
+  * **Use Cases**: Staking, governance, and more.
 
 #### **Phase 3: Mainnet Launch of Sonic Blockchain**
 
