@@ -39,6 +39,10 @@ Users will be able to register `.s` domains on the Sonic blockchain, which can b
 * Websites hosted on decentralized platforms,
 * Even metadata, such as avatars or social profiles.
 
+{% content-ref url="intro/how-sns-works.md" %}
+[how-sns-works.md](intro/how-sns-works.md)
+{% endcontent-ref %}
+
 #### **Token Distribution on Fantom, Product Launch on Sonic**
 
 The **SNS token** will be distributed on the **Fantom network**, offering early adopters the chance to engage with the SNS tokenomics through WigoSwap. However, **no product will be available on Fantom**. The **main SNS product**, including `.s` domains and full name services, will be launched when the **Sonic blockchain** goes live. This approach ensures that users and developers can fully leverage the benefits of Sonic's scalability and low fees.
