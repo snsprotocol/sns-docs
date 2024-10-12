@@ -26,6 +26,10 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
 * **Timeline**: Expected in late 2024
 * **Details**: The full launch of the **Sonic blockchain** will provide the infrastructure necessary for the **Sonic Name Service**. Once the Sonic network goes live, users will also be able to **migrate their SNS tokens from Fantom to Sonic**, enabling full participation in the Sonic ecosystem.
 
+{% content-ref url="why-sonic.md" %}
+[why-sonic.md](why-sonic.md)
+{% endcontent-ref %}
+
 #### **Phase 4: SNS Platform Launch on Sonic**
 
 * **Timeline**: Shortly after the Sonic mainnet launch
@@ -33,6 +37,10 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
   * **DAO Features**:
     * Token holders can vote on governance proposals.
     * Influence over future upgrades and platform decisions.
+
+{% content-ref url="how-sns-works.md" %}
+[how-sns-works.md](how-sns-works.md)
+{% endcontent-ref %}
 
 #### **Phase 5: Ecosystem Development**
 
