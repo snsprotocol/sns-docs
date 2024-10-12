@@ -4,3 +4,4 @@
 
 * [Overview of SNS](README.md)
 * [Why Sonic?](intro/why-sonic.md)
+* [How SNS Works](intro/how-sns-works.md)
