@@ -1,5 +1,5 @@
 ---
-icon: map-pin
+icon: diagram-project
 ---
 
 # SNS Roadmap

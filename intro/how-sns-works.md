@@ -1,5 +1,5 @@
 ---
-icon: diagram-project
+icon: circle-question
 ---
 
 # How SNS Works
