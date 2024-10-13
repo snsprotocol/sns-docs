@@ -11,3 +11,9 @@
 
 * [Burn to mint](sns-token/burn-to-mint.md)
 * [Tokenomics](sns-token/tokenomics.md)
+
+## Extras
+
+* [Smart Contracts](extras/smart-contracts.md)
+* [Brand Assets](extras/brand-assets.md)
+* [Community](extras/community.md)
