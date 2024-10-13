@@ -10,4 +10,4 @@
 ## SNS Token
 
 * [Burn to mint](sns-token/burn-to-mint.md)
-  * [Tokenomics](sns-token/burn-to-mint/tokenomics.md)
+* [Tokenomics](sns-token/tokenomics.md)
