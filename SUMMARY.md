@@ -16,8 +16,11 @@
 
 * [Smart Contracts](extras/smart-contracts.md)
 * [Brand Assets](extras/brand-assets.md)
-* [Community](extras/community.md)
+
+## URLs
+
+* [Github](https://github.com/snsprotocol)
 
 ***
 
-* [Github](https://github.com/snsprotocol)
+* [X](https://x.com)
