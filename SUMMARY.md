@@ -9,4 +9,5 @@
 
 ## SNS Token
 
-* [Burn to mint](sns-token/burn-to-mint.md)
+* [Burn to mint](sns-token/burn-to-mint/README.md)
+  * [Tokenomics](sns-token/burn-to-mint/tokenomics.md)
