@@ -20,7 +20,6 @@
 ## URLs
 
 * [Github](https://github.com/snsprotocol)
-
-***
-
-* [X](https://x.com)
+* [X (Twitter)](https://x.com)
+* [Telegram](https://t.com)
+* [Medium](https://medium.com)
