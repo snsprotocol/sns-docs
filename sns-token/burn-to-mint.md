@@ -52,5 +52,3 @@ The **burn-to-mint event** will take place **before the Initial DEX Offering (ID
 #### **6. Legal Considerations**
 
 Participants in the burn-to-mint event and the broader WigoSwap ecosystem must comply with all applicable laws and regulations. It is the responsibility of each participant to ensure their eligibility and legal compliance based on their jurisdiction. WigoSwap, SNS, and their affiliates disclaim any responsibility for violations of legal requirements by participants. Participants are encouraged to seek independent legal advice if they have any questions about their obligations or the legality of their actions.
-
-{% embed url="https://wigoswap.io/burn-to-mint" %}
