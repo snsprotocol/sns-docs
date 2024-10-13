@@ -19,6 +19,11 @@ Here’s what makes SNS unique:
   * **Faster Transaction Speeds**: The Sonic blockchain will use Fantom’s advanced **Lachesis consensus mechanism**, which allows near-instant transaction finality, drastically reducing confirmation times compared to Ethereum’s proof-of-stake.
   * **Lower Transaction Fees**: Due to Sonic’s more efficient architecture, users will benefit from significantly lower gas fees, making name registration and management much more cost-effective.
   * **Enhanced Scalability**: While Ethereum can become congested under heavy usage, Sonic is designed to scale efficiently, ensuring smooth performance even during periods of high transaction volume.
+
+{% content-ref url="intro/why-sonic.md" %}
+[why-sonic.md](intro/why-sonic.md)
+{% endcontent-ref %}
+
 * **.s Domains**:\
   Just like ENS uses `.eth` domains, SNS will offer `.s` domains as the naming standard for the Sonic network. These domains will allow users to have a simple, human-readable identifier for interacting with decentralized applications and blockchain addresses.
 * **SNS Token on WigoSwap**:\
