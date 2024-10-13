@@ -13,6 +13,10 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
   * **Platform**: WigoSwap
   * **Mechanism**: Burn existing WIGO tokens to mint SNS tokens.
 
+{% content-ref url="../sns-token/burn-to-mint.md" %}
+[burn-to-mint.md](../sns-token/burn-to-mint.md)
+{% endcontent-ref %}
+
 #### **Phase 2: SNS Token IDO on Fantom**
 
 * **Timeline**: Post burn-to-mint
@@ -20,6 +24,10 @@ As we approach the official launch of the **Sonic Name Service (SNS)**, we are e
   * **Token Symbol**: SNS
   * **Platform**: Fantom
   * **Use Cases**: Staking, governance, and more.
+
+{% content-ref url="../sns-token/tokenomics.md" %}
+[tokenomics.md](../sns-token/tokenomics.md)
+{% endcontent-ref %}
 
 #### **Phase 3: Mainnet Launch of Sonic Blockchain**
 

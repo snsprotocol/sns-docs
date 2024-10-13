@@ -23,6 +23,11 @@ Here’s what makes SNS unique:
   Just like ENS uses `.eth` domains, SNS will offer `.s` domains as the naming standard for the Sonic network. These domains will allow users to have a simple, human-readable identifier for interacting with decentralized applications and blockchain addresses.
 * **SNS Token on WigoSwap**:\
   The **SNS token** will be launched on [WigoSwap](https://wigoswap.io/burn-to-mint) using a **burn-to-mint** mechanism, providing a unique tokenomics model that supports scarcity and incentivization. This launch marks the beginning of the SNS ecosystem, but it is important to note that the token distribution will take place on **Fantom**. The **main SNS product**, including `.s` domains and all name services, will be fully launched on the **Sonic blockchain** when it goes live.
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 * **User-Centric Name Management**:\
   SNS will simplify the process of managing blockchain addresses and resources by offering a streamlined interface. Users will be able to register, renew, and resolve `.s` names with ease, connecting blockchain addresses to simple, readable names.
 * **Developer-Friendly**:\
