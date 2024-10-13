@@ -1,3 +1,7 @@
+---
+icon: chart-network
+---
+
 # Tokenomics
 
 The **Sonic Name Service (SNS)** tokenomics model is designed to ensure long-term sustainability, community engagement, and fair distribution of the SNS tokens. Below is a breakdown of the key components of the SNS token distribution and its utility within the ecosystem.
