@@ -14,7 +14,7 @@ icon: image
 
 </div>
 
-<div align="center" data-full-width="true">
+<div align="center" data-full-width="false">
 
 <figure><img src="../.gitbook/assets/sns_logo_light.png" alt="" width="240"><figcaption><p>SNS Logo .PNG - Light</p></figcaption></figure>
 
