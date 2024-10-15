@@ -20,6 +20,6 @@
 ## URLs
 
 * [Github](https://github.com/snsprotocol)
-* [X (Twitter)](https://x.com)
+* [X (Twitter)](https://x.com/SonicSNS)
 * [Telegram](https://t.com)
 * [Medium](https://medium.com)
