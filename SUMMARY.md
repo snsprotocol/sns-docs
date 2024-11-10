@@ -15,6 +15,7 @@
 ## Extras
 
 * [Smart Contracts](extras/smart-contracts.md)
+* [Important TXs](extras/important-txs.md)
 * [Brand Assets](extras/brand-assets.md)
 
 ## URLs
